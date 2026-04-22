@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [lyj]
 <!-- 「后端开发者 | 热爱后端」 -->
-💻 Backend Developer | 🚀 SpringBoot 实践者
+💻 AI Developer | 🚀 AI 实践者
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
