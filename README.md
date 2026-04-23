@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [lyj]
 <!-- 「后端开发者 | 热爱后端」 -->
-💻 AI Developer | 🚀 AI 实践者
+💻 Backend Developer | 🚀 AI 实践者
 
 - 🌱 I have recently been studying **AI**
   
